@@ -3,6 +3,7 @@
 Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os projetos pessoais.
 
 Normalmente nas empresas que eu trabalhei, não usávamos o GitHub e sim, BitBucket e MS Team Fundation 🤮
+
 Então você vai ver poucos Commits por aqui, mas bora lá.
 
 ## Estatísticas
