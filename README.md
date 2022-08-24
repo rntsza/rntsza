@@ -12,6 +12,8 @@ Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os pr
 
 ## Ferramentas e Tecnologias
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=reegomes)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
