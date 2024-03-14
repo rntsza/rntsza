@@ -1,18 +1,10 @@
 # Bem vindo ao meu perfil do GitHub
 
-Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os projetos pessoais.
-
-## Estatísticas
-
-> Afinal, todo mundo adora umas estatísticas. (As minhas estão horríveis btw)
-[![reegomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=reegomes&count_private=true&show_icons=true)](https://github.com/reegomes/github-readme-stats)
-> 
-> A true aqui é, eu trabalho atualmente mais com JS e SQL, mas como é meu pessoal.. C# é preferência.
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reegomes&layout=compact)](https://github.com/reegomes/github-readme-stats)
+Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os projetos pessoais, já que as empresas que eu trabalhei usam mais TFS.
 
 ## Ferramentas e Tecnologias
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reegomes)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rntsza)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
@@ -30,21 +22,6 @@ Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os pr
 ## Contatos: 
 
 <div>  <a href="https://www.youtube.com/c/RenatoGomesSouza" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/rntsza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-<a href="https://www.twitch.tv/reegomes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
-<a href = "mailto:reegomescel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.twitch.tv/rntsza" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+<a href = "mailto:rntszacel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/rntsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
-
-<!--
-**reegomes/reegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
