@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil do GitHub
 
-Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os projetos pessoais, já que as empresas que eu trabalhei usam mais TFS.
+Hi guys, meu nome é **Renato** sou desenvolvedor FS e aqui eu coloco mais os projetos pessoais.
 
 ## Ferramentas e Tecnologias
 
